@@ -1,0 +1,199 @@
+{
+ "U1": {
+  "footprint": "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm",
+  "value": "ATtiny412-SS",
+  "uuid": "c0cf3003-1aca-4239-ae1b-52c0e155623c",
+  "pads": {
+   "1": "+3V0",
+   "8": "GND",
+   "2": "LED_D",
+   "3": "BTN",
+   "4": "LED_A",
+   "5": "LED_B",
+   "6": "UPDI",
+   "7": "LED_C"
+  },
+  "mpn": "Microchip ATTINY412-SSNR"
+ },
+ "BT1": {
+  "footprint": "Battery:BatteryHolder_MYOUNG_BS-07-A1BJ001_CR2032",
+  "value": "CR2032",
+  "uuid": "8a809a1c-c689-4d8a-9f2b-fb5c07825539",
+  "pads": {
+   "1": "+3V0",
+   "2": "GND"
+  },
+  "mpn": "MYOUNG BS-07-A1BJ001"
+ },
+ "C1": {
+  "footprint": "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder",
+  "value": "100nF",
+  "uuid": "d83b8e37-5a2d-407b-8214-fe1d0329517f",
+  "pads": {
+   "1": "+3V0",
+   "2": "GND"
+  },
+  "mpn": "0805 100nF X7R 16V (generic)"
+ },
+ "SW1": {
+  "footprint": "Button_Switch_THT:SW_PUSH_6mm",
+  "value": "ROLL",
+  "uuid": "09ab35d1-61d4-41c3-b0a7-e5c1691c3ba8",
+  "pads": {
+   "1": "BTN",
+   "2": "GND"
+  },
+  "mpn": "6x6mm THT tactile switch, 4-pin (generic)"
+ },
+ "J1": {
+  "footprint": "Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical",
+  "value": "UPDI",
+  "uuid": "87b56e01-c7c5-4aa1-a5cc-ee79b5b634bd",
+  "pads": {
+   "1": "UPDI",
+   "2": "+3V0",
+   "3": "GND"
+  },
+  "mpn": "1x3 2.54mm pin header (generic)"
+ },
+ "R1": {
+  "footprint": "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder",
+  "value": "330",
+  "uuid": "52df10ca-29cb-4140-a137-f1fd25f882a7",
+  "pads": {
+   "1": "LED_A",
+   "2": "Net-(D1-A)"
+  },
+  "mpn": "0805 330R 1% (generic)"
+ },
+ "D1": {
+  "footprint": "LED_SMD:LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder",
+  "value": "RED",
+  "uuid": "37821f27-4f33-43a4-ac12-3f034822e9a5",
+  "pads": {
+   "2": "Net-(D1-A)",
+   "1": "GND"
+  },
+  "mpn": "0805 red LED, Vf~2.0V (generic)"
+ },
+ "R2": {
+  "footprint": "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder",
+  "value": "330",
+  "uuid": "d9766ae7-6525-4ff3-8b47-2fb795047522",
+  "pads": {
+   "1": "LED_B",
+   "2": "Net-(D2-A)"
+  },
+  "mpn": "0805 330R 1% (generic)"
+ },
+ "D2": {
+  "footprint": "LED_SMD:LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder",
+  "value": "RED",
+  "uuid": "1ced7a80-f3dc-456a-ac7e-208dc4c264af",
+  "pads": {
+   "2": "Net-(D2-A)",
+   "1": "GND"
+  },
+  "mpn": "0805 red LED, Vf~2.0V (generic)"
+ },
+ "R3": {
+  "footprint": "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder",
+  "value": "330",
+  "uuid": "be64a8ca-9c5e-4351-9f2b-0be498f3b861",
+  "pads": {
+   "1": "LED_C",
+   "2": "Net-(D3-A)"
+  },
+  "mpn": "0805 330R 1% (generic)"
+ },
+ "D3": {
+  "footprint": "LED_SMD:LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder",
+  "value": "RED",
+  "uuid": "e9457238-153b-491b-aacd-6069c37ebbb1",
+  "pads": {
+   "2": "Net-(D3-A)",
+   "1": "GND"
+  },
+  "mpn": "0805 red LED, Vf~2.0V (generic)"
+ },
+ "R4": {
+  "footprint": "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder",
+  "value": "330",
+  "uuid": "1c1a3faf-c387-4496-a60f-45b473b69f1f",
+  "pads": {
+   "1": "LED_D",
+   "2": "Net-(D4-A)"
+  },
+  "mpn": "0805 330R 1% (generic)"
+ },
+ "D4": {
+  "footprint": "LED_SMD:LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder",
+  "value": "RED",
+  "uuid": "c0365d24-5725-414c-840f-aebaa07a569f",
+  "pads": {
+   "2": "Net-(D4-A)",
+   "1": "GND"
+  },
+  "mpn": "0805 red LED, Vf~2.0V (generic)"
+ },
+ "R5": {
+  "footprint": "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder",
+  "value": "330",
+  "uuid": "ddfd824c-f5b4-4ca2-8740-8c9b28349b1d",
+  "pads": {
+   "1": "LED_C",
+   "2": "Net-(D5-A)"
+  },
+  "mpn": "0805 330R 1% (generic)"
+ },
+ "D5": {
+  "footprint": "LED_SMD:LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder",
+  "value": "RED",
+  "uuid": "0fda51f5-fa66-40e7-b300-5465e5964a15",
+  "pads": {
+   "2": "Net-(D5-A)",
+   "1": "GND"
+  },
+  "mpn": "0805 red LED, Vf~2.0V (generic)"
+ },
+ "R6": {
+  "footprint": "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder",
+  "value": "330",
+  "uuid": "231c9594-3663-41f2-b562-6b9f3ac8ea6f",
+  "pads": {
+   "1": "LED_B",
+   "2": "Net-(D6-A)"
+  },
+  "mpn": "0805 330R 1% (generic)"
+ },
+ "D6": {
+  "footprint": "LED_SMD:LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder",
+  "value": "RED",
+  "uuid": "bc137f60-649c-4218-bbea-0d18771a1c4a",
+  "pads": {
+   "2": "Net-(D6-A)",
+   "1": "GND"
+  },
+  "mpn": "0805 red LED, Vf~2.0V (generic)"
+ },
+ "R7": {
+  "footprint": "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder",
+  "value": "330",
+  "uuid": "5a7eddd3-8e00-4f52-9ef7-a44c5fac0923",
+  "pads": {
+   "1": "LED_A",
+   "2": "Net-(D7-A)"
+  },
+  "mpn": "0805 330R 1% (generic)"
+ },
+ "D7": {
+  "footprint": "LED_SMD:LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder",
+  "value": "RED",
+  "uuid": "7aadea4e-e8e3-4409-bab5-e4ce11ea5834",
+  "pads": {
+   "2": "Net-(D7-A)",
+   "1": "GND"
+  },
+  "mpn": "0805 red LED, Vf~2.0V (generic)"
+ }
+}

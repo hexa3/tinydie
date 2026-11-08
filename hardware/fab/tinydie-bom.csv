@@ -1,0 +1,8 @@
+"Refs","Value","MPN","Footprint","Qty"
+"BT1","CR2032","MYOUNG BS-07-A1BJ001","Battery:BatteryHolder_MYOUNG_BS-07-A1BJ001_CR2032","1"
+"C1","100nF","0805 100nF X7R 16V (generic)","Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder","1"
+"D1-D7","RED","0805 red LED, Vf~2.0V (generic)","LED_SMD:LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder","7"
+"J1","UPDI","1x3 2.54mm pin header (generic)","Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical","1"
+"R1-R7","330","0805 330R 1% (generic)","Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder","7"
+"SW1","ROLL","6x6mm THT tactile switch, 4-pin (generic)","Button_Switch_THT:SW_PUSH_6mm","1"
+"U1","ATtiny412-SS","Microchip ATTINY412-SSNR","Package_SO:SOIC-8_3.9x4.9mm_P1.27mm","1"

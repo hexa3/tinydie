@@ -1,0 +1,7 @@
+firmware/*.elf
+firmware/*.hex
+hardware/*-backups/
+hardware/*.kicad_prl
+hardware/fp-info-cache
+hardware/#auto_saved_files#
+hardware/~*.lck
